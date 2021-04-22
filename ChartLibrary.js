@@ -1,3 +1,7 @@
+/**
+ * @OnlyCurrentDoc
+ */
+
 var ss_ = SpreadsheetApp.getActiveSpreadsheet();
 
 /**
