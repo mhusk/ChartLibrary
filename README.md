@@ -9,7 +9,7 @@ This is a chart library that makes it easier to create and manage charts in Goog
 
 Script ID ```13-lAMSZR4Be-fxACHohdcTBPtcarA5TJArDNAMYErZlL5dtRw1sjzLxQ```
 
-4. Chose the latest version (currently 7)
+4. Chose the latest version (currently 8)
 
 You have successfully imported the library!
 
