@@ -45,7 +45,7 @@ Parameters:
  * {number} rowPos - the row at which the chart will be placed.
  * {number} colPos - the column at which the chart will be placed.
 
-What your Code should look like
+*Example Code*
 ```
 function myFunction() {
   var ss = SpreadsheetApp.getActiveSpreadsheet();
@@ -72,7 +72,7 @@ What I think makes this library unique is how easy it allows you to update chart
  * @param {SpreadsheetApp.Range} dataRange - the new data you want charted.
  * @param {SpreadsheetApp.Sheet} sheet - the sheet where the chart is.
 
-Example
+*Example Code*
 
 ```
 function UpdatingChart(){
